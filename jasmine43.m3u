@@ -1,996 +1,692 @@
 #EXTM3U
 #EXTINF:-1 WATCH MORE IPTV CHANNELS ON OMOHAK TV
 
-#EXTINF:-1 group-title="|UK| GENERAL",----------------[UK]-[HEVC]----------------
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/474025
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BBC1.png" group-title="|UK| GENERAL",|UK| BBC 1 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50789
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BBC2.png" group-title="|UK| GENERAL",|UK| BBC 2 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50791
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BBCCBBC.png" group-title="|UK| GENERAL",|UK| BBC CBBC HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50796
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BBC4.png" group-title="|UK| GENERAL",|UK| BBC 4 CBEEBIES HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50794
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BBCCBBC.png" group-title="UK| KIDS",|UK| CBBC BBC 4 FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50788
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/BBCONESCOTTLAND.png" group-title="|UK| GENERAL",|UK| BBC Scotland HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224014
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ITV1_logo.png" group-title="|UK| GENERAL",|UK| ITV 1 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50779
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/2ITV.png" group-title="|UK| GENERAL",|UK| ITV 2 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50781
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ITV3.png" group-title="|UK| GENERAL",|UK| ITV 3 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50783
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ITV4.png" group-title="|UK| GENERAL",|UK| ITV 4 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50785
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/CHANNEL4.png" group-title="|UK| GENERAL",|UK Channel 4 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50950
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/CHANNEL5.png" group-title="|UK| GENERAL",|UK| Channel 5 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50951
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/E4.png" group-title="|UK| GENERAL",|UK| E4 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50797
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BBCCBBC.png" group-title="|UK| GENERAL",|UK| CBBC hevc
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50787
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/4SEVEN.png" group-title="|UK| GENERAL",|UK| 4 Seven HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50947
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ALIBIHD.png" group-title="|UK| GENERAL",|UK| ALIBI HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50930
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BBCNEWS.png" group-title="|UK| GENERAL",|UK| BBC News HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50914
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BBC%20WORLD%20NEWS.png" group-title="|UK| GENERAL",||UK|| BBC WORLD NEWS HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50921
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/BLOOMBERG%20NEWS.png" group-title="|UK| GENERAL",|UK| Bloomberg HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224017
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/CNN.png" group-title="|UK| GENERAL",|UK| CNN HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50918
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYNEWSS.jpeg" group-title="|UK| GENERAL",||UK|| SKY  NEWS HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50916
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ITVLONDON.png" group-title="|UK| GENERAL",|UK| ITV London HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50806
-#EXTINF:-1 group-title="|UK| GENERAL",----------------[UK]-[HD]----------------
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/474026
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BBC1.png" group-title#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73="UK| UK TV FHD",|UK| BBC HD 1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50790
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BBC2.png" group-title="UK| UK TV FHD",|UK| BBC HD 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50792
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BBC3.png" group-title="|UK| GENERAL",|UK| BBC HD 3 CBBC HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50793
-#EXTINF:-1 group-title="UK| UK TV FHD",|UK| BBC HD 4 CBEEBIES HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50795
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/BBCONELONDON.png" group-title="|#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73UK| GENERAL",|UK| BBC Parliament HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224013
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ITV1_logo.png" group-title="UK| UK TV FHD",|UK| ITV HD 1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50780
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/2ITV.png" group-title="UK| UK TV FHD",|UK| ITV HD 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50782
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ITV3.png" group-title="UK| UK TV FHD",|UK| ITV HD 3
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50784
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ITV4.png" group-title="UK| UK TV FHD",|UK| ITV HD 4
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50786
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/ITVBE.png" group-title="|UK| GENERAL",|UK| ITVBe
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224037
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/CHANNEL5.png" group-title="|UK| GENERAL",|UK| Channel 5 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224023
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/CHANNEL4.png" group-title="|UK| GENERAL",|UK| Channel 4 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224022
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BBCNEWS.png" group-title="UK| UK TV FHD",|UK| BBC NEWS HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50917
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/CITV_logo_2013.svg/revision/latest/scale-to-width-down/340?cb=20190909121023" group-title="|UK| GENERAL",|UK| CITV HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224024
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/EURONEWS.png" group-title="|UK| GENERAL",||UK|| EURO NEWS HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50923
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/FOXNEWS.png" group-title="UK| UK TV FHD",||UK|| FOX NEWS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50924
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/ARABE/ALJAZEERAENGLISHHD.png" group-title="|UK| GENERAL",|UK|  ALJAZEERA NEWS HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50920
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYNEWSS.jpeg" group-title="|UK| GENERAL",|UK| SKY NEWS HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50915
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/BBCONEYORKSHIRE.png" group-title="|UK| GENERAL",|UK| BBC One Yk&Li
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224012
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/BBCONEWEST.png" group-title="|UK| GENERAL",|UK| BBC One W Mid
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224011
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/BBCONEWALES.png" group-title="|UK| GENERAL",|UK| BBC One Wal HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224010
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/BBCONEWEST.png" group-title="|UK| GENERAL",|UK| BBC One S West
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224009
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/BBCONESOUTH.png" group-title="|UK| GENERAL",|UK| BBC One South
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224008
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/BBCONESCOTTLAND.png" group-title="|UK| GENERAL",|UK| BBC One Scot HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224007
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/BBCONEOXFORD.png" group-title="|UK| GENERAL",|UK| BBC One Oxford
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224006
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/BBCONENORTHERNIRELANDHD.png" group-title="|UK| GENERAL",|UK| BBC One NI HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224005
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/BBCNEWS.png" group-title="|UK| GENERAL",|UK| BBC One News HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224004
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/BBCONELONDON.png" group-title="|UK| GENERAL",|UK| BBC One Lon
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224003
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/BBC1.png" group-title="|UK| GENERAL",|UK| BBC One HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224002
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/BBCONEMIDLANDS.png" group-title="|UK| GENERAL",|UK| BBC One E Mid
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224001
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/BBCONEEASTMIDLANDS.png" group-title="|UK| GENERAL",|UK| BBC One East E
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224000
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/BBCTWOWALES.png" group-title="|UK| GENERAL",|UK| BBC Two Wal HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224016
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/BBCTWOSCOTLAND.png"p-title="|UK| GENERAL",|UK| BBC Two HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224015
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/STV.png" group-title="UK| UK TV FHD",|UK| Stv HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50944
-#EXTINF:-1 group-title="UK|  ENTERTAINMENT",----------------[UK]-[HD]----------------
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/474052
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/EDEN.png" group-title="UK|  ENTERTAINMENT",|UK| EDEN HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50933
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/DAVE.png" group-title="UK|  ENTERTAINMENT",|UK| DAVE HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50932
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/MORE%204.png" group-title="UK|  ENTERTAINMENT",|UK| More4
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224043
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/QUEST.png" group-ENTERTAINMENT",|UK| Quest FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50955
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYONE.png" group-title="UK|  ENTERTAINMENT",|UK| SKY ONE HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50799
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/UTV%20HD.png" group-title="|UK| GENERAL",|UK| UTV HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50939
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/UNIVERSALTV.png" group-title="UK|  ENTERTAINMENT",|UK| UNIVERSAL HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50938
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYATLANTIC.png" group-title="UK|  ENTERTAINMENT",UK | SKY Atlantic HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50825
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/TLC.png" group-title="UK|  ENTERTAINMENT",|UK| TLC HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50946
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/4MUSIC.png" group-title="UK|  ENTERTAINMENT",|UK| 4 seven
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/223996
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/5STAR.png" group-title="UK|  ENTERTAINMENT",|UK| 5 SELECT
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/223998
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/5STAR.png" group-title="UK|  ENTERTAINMENT",|UK| 5 STAR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/223999
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/5USA.png" group-title="UK|  ENTERTAINMENT",|UK| 5 USA
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/223997
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/CBS--REALITY.png" group-title="UK|  ENTERTAINMENT",|UK| CBS Reality
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224021
-#EXTINF:-1 tvg-logo="https://www.cbsjustice.tv/grfx/stuff/cbs-justice-logo.png" group-title="UK|  ENTERTAINMENT",|UK| CBS Justice
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224020
-#EXTINF:-1 tvg-logo="https://www.cbsdrama.tv/grfx/stuff/cbs-drama-logo.png" group-title="UK|  ENTERTAINMENT",|UK| CBS Drama
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224019
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1200px-DMax_Espa%C3%B1a.svg.png" group-title="UK|  ENTERTAINMENT",|UK| D MAX
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/295627
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/E4.png" group-title="UK|  ENTERTAINMENT",|UK| E4
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224029
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/PICKTV.png" group-title="|UK| GENERAL",|UK| PICK TV HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50805
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Really_logo_2013.svg/500px-Really_logo_2013.svg.png" group-title="UK|  ENTERTAINMENT",|UK| Really
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224047
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SONYCRIMECHANNEL2.png" group-title="UK|  ENTERTAINMENT",|UK| SONY CRIME 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50936
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/TRUEMOVIES.png" group-title="UK|  ENTERTAINMENT",|UK|  TRUE MOVIES
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50937
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/UTV%20HD.png" group-title="UK|  ENTERTAINMENT",|UK| UTV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224054
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/TLC.png" group-title="UK|  ENTERTAINMENT",|UK| TLC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224053
-#EXTINF:-1 group-title="UK| DOCUMENTARY",----------------[UK]-[HEVC]---------------
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/474055
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/DISCOVERYHD.png" group-title="UK| DOCUMENTARY",|UK| Discovery FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50876
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/NATGEahttp://185.165.243.195/LOGO%20DREAMTV%204K/NATGEOHD.pngOHD.png" group-title="UK| DOCUMENTARY",|UK| Nat Geo FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50954
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/HISTORYHD.png" group-title="UK| DOCUMENTARY",|UK| History FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50952
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SYFY.png" group-title="UK| DOCUMENTARY",|UK| SYFY HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50802
-#EXTINF:-1 group-title="UK| DOCUMENTARY",----------------[UK]-[HD]---------------
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/474057
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/DISCOVERYHD.png" group-title="UK| DOCUMENTARY",|UK| DISCOVERY HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50877
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/NATGEOHD.png" group-title="UK| DOCUMENTARY",|UK| NAT GEO HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50879
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/NGCWILDHD.png" group-title="UK| DOCUMENTARY",|UK| NAT GEO WILD HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50878
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ANIMALPLANETHD.png" group-title="UK| DOCUMENTARY",|UK| ANIMAL PLANET HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50880
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/HISTORYHD.png" group-title="UK| DOCUMENTARY",|UK| HISTORY HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50882
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/HISTORY2HD.png" group-title="UK| DOCUMENTARY",|UK| HISTORY 2 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50881
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sky_Nature_Logo_2020.png" group-title="UK| DOCUMENTARY",|UK| Sky Nature
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/295629
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Sky_Documentaries_Logo_2020.png" group-title="UK| DOCUMENTARY",|UK| Sky Documentaries
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/295625
-#EXTINF:-1 tvg-logo="https://www.history.co.uk/themes/custom/sky_history/images/logo.png" group-title="UK| DOCUMENTARY",|UK| Sky History
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/295628
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/INVESTIGATIONDISCOVERY.png" group-title="UK| DOCUMENTARY",|UK| ID
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/295626
-#EXTINF:-1 group-title="UK| SPORTS",----------------[UK]-[HEVC]---------------
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/474075
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSNEWS.png" group-title="UK| SPORTS",|UK| Sky Sports News FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50835
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RACINGUKHD.png" group-title="UK| SPORTS",|UK| SKY SPORTS RACING FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50836
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSMIX.png" group-title="UK| SPORTS",|UK| Sky Sports Mix FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50848
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSACTION.png" group-title="UK| SPORTS",|UK| SKY SPORTS FHD ACTION
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50856
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSARENA.png" group-title="UK| SPORTS",|UK| SKY SPORTS FHD ARENA
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50857
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/SKYSPORTSCRICKET.png" group-title="UK| SPORTS",|UK| SKY SPORTS FHD CRICKET
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50858
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSPREMIERLEAGUE.png" group-title="UK| SPORTS",|UK| SKY SPORTS FHD PREMIER LEAGUE
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50863
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSF1.png" group-title="UK| SPORTS",|UK| SKY SPORTS FHD F1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50859
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORT-FOOTBALL.png" group-title="UK| SPORTS",|UK| SKY SPORTS FHD FOOTBALL
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50860
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORT-GOLF.png" group-title="UK| SPORTS",|UK| SKY SPORTS FHD GOLF
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50861
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSMAINEVENT.png" group-title="UK| SPORTS",|UK| SKY SPORTS FHD MAIN EVENT
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50862
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BTSPORTSESPN.png" group-title="UK| SPORTS",|UK| BT Sport ESPN FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50872
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BTSPORTS1.png" group-title="UK| SPORTS",|UK| BT Sport 1 FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50866
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BTSPORTS1.png" group-title="UK| SPORTS",|UK| BT SPORTS FHD 1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50867
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BTSPORTS2.png" group-title="UK| SPORTS",|UK| BT Sport 2 FH
-D#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50868
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BTSPORTS2.png" group-title="UK| SPORTS",|UK| BT SPORTS FHD 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50869
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BTSPORTS3.png" group-title="UK| SPORTS",|UK| BT Sport 3 FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50870
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BTSPORTS3.png" group-title="UK| SPORTS",|UK| BT SPORTS FHD 3
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50871
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/EUROSPORTS1.png" group-title="UK| SPORTS",|UK| Eurosport 1 FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50851
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/EUROSPORT2.png" group-title="UK| SPORTS",|UK| Eurosport 2 FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50852
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MUTV.png" group-title="|UK| GENERAL",|UK| MUTV HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50941
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BOXNATION.png" group-title="|UK| GENERAL",|UK| Box Nation HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50948
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/Wwe.png" group-title="UK| UK TV FHD",|UK| WWE LIVE FHD H265
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/64491
-#EXTINF:-1 group-title="UK| SPORTS",----------------[UK]-[HD]---------------
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/474078
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/SKYNEWSS.jpeg" group-title="UK| SPORTS",|UK| SKY SPORTS NEWS HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50838
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RACINGUKHD.png" group-title="UK| SPORTS",|UK| SKY SPORTS RACING HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50837
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSCRICKET.png" group-title="UK| SPORTS",|UK| SKY SPORTS CRICKET HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50839
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSF1.png" group-title="UK| SPORTS",|UK| SKY SPORTS F1 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50841
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSARENA.png" group-title="UK| SPORTS",|UK| SKY SPORTS ARENA HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50842
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSFOOTBALL.png" group-title="UK| SPORTS",|UK| SKY SPORTS FOOTBALL HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50843
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSACTION.png" group-title="UK| SPORTS",|UK| SKY SPORTS ACTION HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50844
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMAPREMIERE.png" group-title="UK| SPORTS",|UK| SKY SPORTS PREMIER LEAGUE HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50845
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORT-GOLF.png" group-title="UK| SPORTS",|UK| SKY SPORTS GOLF HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082REDLINECLIENT
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSMIX.png" group-title="UK| SPORTS",|UK| SKY SPORTS MIX FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50849
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSMAINEVENT.png" group-title="UK| SPORTS",|UK| SKY SPORTS MAIN EVENT HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50846
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSCRICKET.png" group-title="UK| SPORTS",|UK| SKY SPORTS CRICKET SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50840
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/BTSPORTS1.png" group-title="UK|  ENTERTAINMENT",|UK| BT Sport 1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224060
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/BTSPORTS2.png" group-title="UK|  ENTERTAINMENT",|UK| BT Sport 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224061
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/BTSPORTS3.png" group-title="UK|  ENTERTAINMENT",|UK| BT Sport 3
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224062
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BTSPORTSESPN.png" group-title="UK| SPORTS",|UK| BT SPORTS ESPN HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50850
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/CHELSEATV.png" group-title="UK| SPORTS",|UK| CHELSEA TV HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50931
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/LFCT.png" group-title="UK|  ENTERTAINMENT",|UK| Liverpool TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224040
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/PREMIERSPORT.png" group-title="UK| SPORTS",|UK| PREMIER SPORTS HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50854
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/EIRSPORTS1.png" group-title="UK| SPORTS",|UK| Eir Sports 1 FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50873
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/EIRSPORTS2.png" group-title="UK| SPORTS",|UK| Eir Sports 2 FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50874
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/EUROSPORT.png" group-title="UK| SPORTS",|UK| EUROSPORTS HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50855
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/EUROSPORT2.png" group-title="UK| SPORTS",|UK| EUROSPORTS HD 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50853
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RACINGUKHD.png" group-title="UK| SPORTS",|UK| RACING UK HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50942
-#EXTINF:-1 group-title="UK| CINEMA",----------------[UK]-[HEVC]---------------
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/474136
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/SKYCINEMAACTION.png" group-title="UK| CINEMA",|UK| Sky Movies Action FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50808
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMACOMEDY.png" group-title="UK| CINEMA",|UK| Sky Movies Comedy FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50811
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMADISNEY.png" group-title="UK| CINEMA",|UK| Sky Movies Disney FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50813
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMADRAMA&ROMANCE.png" group-title="UK| CINEMA",|UK| Sky Movies Drama  Romance FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50815
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMAFAMILY.png" group-title="UK| CINEMA",|UK| Sky Movies Family FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50817
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMAHITS.png" group-title="UK| CINEMA",|UK| Sky Movies Hits FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50820
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMAPREMIERE.png" group-title="UK| CINEMA",|UK.VIP| Sky Movies Premiere FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50822
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SkyCinemaSelectHd.png" group-title="UK| CINEMA",|UK Sky Movies Select FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50826
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMATHRILLER.png" group-title="UK| CINEMA",|UK| Sky Movies Thriller FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50828
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMATHRILLER.png" group-title="UK| CINEMA",|UK| Sky Cinema Thriller FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50829
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMASCI-FI.png" group-title="UK| CINEMA",|UK| Sky Movies SciFi Horror FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50830
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMAGREATS.png" group-title="UK| CINEMA",|UK| Sky Movies Greats FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50832
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/TCMHD.png" group-title="UK| CINEMA",|UK| TCM HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50957
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/FILM4.png" group-title="UK| CINEMA",|UK| FILM 4 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50934
-#EXTINF:-1 group-title="UK| CINEMA",----------------[UK]-[HD]---------------
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/474137
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMAACTION.png" group-title="UK| CINEMA",|UK| Sky Cinema Action HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50809
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMASCI-FI.png" group-title="UK| CINEMA",|UK|  Sky Cinema Sci-fi
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50801
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SkyCinemaSelectHd.png" group-title="UK| CINEMA",|UK| SKY CINEMA Select HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50810
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMACOMEDY.png" group-title="UK| CINEMA",|UK| Sky Cinema Comedy HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50812
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMADISNEY.png" group-title="UK| CINEMA",|UK| Sky Cinema Disney HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50814
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50816
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMAFAMILY.png" group-title="UK| CINEMA",|UK| Sky Cinema Family HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50818
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYHERO.png" group-title="UK| CINEMA",|UK| Sky Cinema Hero HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50819
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMAHITS.png" group-title="UK| CINEMA",|UK| Sky Cinema Hits HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50821
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMAPREMIERE.png" group-title="UK| CINEMA",|UK| Sky Cinema Premier HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50823
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/Sky-Cinema-SciFi.png" group-title="UK| CINEMA",|UK| Sky Cinema SciFiHorror HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50824
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SkyCinemaSelectHd.png" group-title="UK| CINEMA",|UK| Sky Cinema Select HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50827
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMASCI-FI.png" group-title="UK| CINEMA",|UK| SKY CINEMA SCI-FI HORROR HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50831
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/TCMHD.png" group-title="UK| CINEMA",|UK| TCM HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50945
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/TCM.png" group-title="UK|  ENTERTAINMENT",|UK| TCM Movies
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224051
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/FILM4.png" group-title="UK|  ENTERTAINMENT",|UK| Film4
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224032
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/HORRORCHANNEL.png" group-title="UK| CINEMA",|UK| horror channel
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224035
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/Cartoonito.png" group-title="UK| KIDS",|UK| Cartoonito
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224055
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RTETWO.png" group-title="|UK| GENERAL",|UK| RTE TWO  HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50800
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/TG4.png" group-title="|UK| GENERAL",|UK| TG4 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50804
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/BOOMERANG.png" group-title="UK|  ENTERTAINMENT",|UK| Boomerang
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224059
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/Nicktoons.png" group-title="UK|  ENTERTAINMENT",|UK| Nicktoons
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224058
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/NICK%20JUNIOR.jpg" group-title="UK|  ENTERTAINMENT",|UK| Nick Jr.
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224057
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/CARTOONNETWORK.png" group-title="UK|  ENTERTAINMENT",|UK| Cartoon Netwrk
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224056
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/TINYPOP.png" group-title="UK|  ENTERTAINMENT",|UK| Tiny Pop
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224052
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/STV.png" group-title="UK|  ENTERTAINMENT",|UK| STV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224050
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/1200px-S4C_logo_2014.svg.png" group-title="UK|  ENTERTAINMENT",|UK| S4C
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224049
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/RTENEWS.png" group-title="UK|  ENTERTAINMENT",|UK| RT
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224048
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/POPMAX1.png" group-title="UK|  ENTERTAINMENT",|UK| POP Max
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224046
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/POP1.png" group-title="UK|  ENTERTAINMENT",|UK| POP
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224045
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/USA/PARAMOUNT.png" group-title="UK|  ENTERTAINMENT",|UK| Paramount
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224044
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/MAGIC.png" group-title="UK|  ENTERTAINMENT",|UK| Magic
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224042
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/LONDON%20LIVE%20TV.png" group-title="UK|  ENTERTAINMENT",|UK| London Live
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224041
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/KISS.png" group-title="UK|  ENTERTAINMENT",|UK| KISS#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224039
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/KERRANG!.png" group-title="UK|  ENTERTAINMENT",|UK| kerrang
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224038
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/INVESTIGATIONDISCOVERY.png" group-title="UK|  ENTERTAINMENT",|UK| ID +1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224036
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/HOME&HEALTH.png" group-title="UK|  ENTERTAINMENT",|UK| Home & Health
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224034
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="UK|  ENTERTAINMENT",|UK| HGTV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224033
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/95/ETV_logo_2014.png" group-title="UK|  ENTERTAINMENT",|UK| ETV6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224031
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/95/ETV_logo_2014.png" group-title="UK|  ENTERTAINMENT",|UK| ETV1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224030
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/DISCOVERYHD.png" group-title="UK|  ENTERTAINMENT",|UK| Discovery Shed
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224028
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/DISCOVERYHD.png" group-title="UK|  ENTERTAINMENT",|UK| Discovery
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224027
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/COMEDYCENTRALEXTRA.png" group-title="UK|  ENTERTAINMENT",|UK| ComedyXtra
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224026
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/COMEDY-CENTRAL.png" group-title="UK|  ENTERTAINMENT",|UK| ComedyCentral
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224025
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/BBCCBBC.png" group-title="UK|  ENTERTAINMENT",|UK| CBBC HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/224018
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/4MUSIC.png" group-title="UK|  ENTERTAINMENT",|UK| 4 Music
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/223995
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/ITV4.png" group-title="|UK| GENERAL",|UK| ITV4 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/223994
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/ITV3.png" group-title="|UK| GENERAL",|UK| ITV3 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/223993
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/ITV2.png" group-title="|UK| GENERAL",|UK| ITV2 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/223992
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/ITV.png" group-title="|UK| GENERAL",|UK| ITV HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/223991
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/COMEDY-CENTRAL.png" group-title="UK| CINEMA",|UK| COMEDY CENTRAL HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50803
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Sky_Crime_logo_2019.svg/1200px-Sky_Crime_logo_2019.svg.png" group-title="UK| CINEMA",|UK|Sky Crime
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/295624
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/SKYSPORTSACTION.png" group-title="UK| CINEMA",|UK| SKY ACTION
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50833
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/NICKHD.png" group-title="UK| KIDS",|UK| NICK HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50887
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/NICKTOONS.png" group-title="UK| KIDS",|UK|   NICKTOONS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50888
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/Logo_Nickelodeon.png" group-title="UK| KIDS",|UK|  NICKELODEON
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50889
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/NICKTOONS.png" group-title="UK| KIDS",|UK|  NICKTOONS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50890
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BABYTV.png" group-title="UK| KIDS",|UK| BABY TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50891
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BBCCBBC.png" group-title="UK| KIDS",|UK| CBBC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50894
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/cbeebies.png" group-title="UK| KIDS",|UK| Cbeebies FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50896
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/cbeebies.png" group-title="UK| KIDS",|UK| CBEEBIES HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50897
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/DISNEYCHANNEL.png" group-title="UK| KIDS",|UK| DISNEY CHANNEL 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50899
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/DISNEYCHANNEL.png" group-title="UK| KIDS",|UK| DISNEY CHANNEL 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50900
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/NICKJUNIOR.png" group-title="UK| KIDS",|UK| NICK  JR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50901
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/Nick_Jr.png" group-title="UK| KIDS",|UK| NICK JR  TOO
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50902
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/TINYPOP.png" group-title="UK| KIDS",|UK| TINY POP
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50903
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BOOMERANG.png" group-title="UK| KIDS",|UK|- Boomerang
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50904
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/Boomerang-1.png" group-title="UK| KIDS",|UK|- Boomerang  1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50905
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/CARTOONNETWORK.png" group-title="UK| KIDS",|UK|- Cartoon Network
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082REDLINECLIENT
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/CARTOONNETWORK.png" group-title="UK| KIDS",|UK|- Cartoon Network  1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50907
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/NICKHD.png" group-title="UK| KIDS",|UK|- Nick  1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50910
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/NICK%20JUNIOR.png" group-title="UK| KIDS",|UK|- Nick Junior
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50911
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/NICKELODEONHD.png" group-title="UK| KIDS",|UK|- Nickelodeon
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50912
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BLOOMBERG%20NEWS.png" group-title="|UK| GENERAL",||UK|| BLOOMBERG NEWS HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50922
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/RTENEWS.png" group-title="UK| UK TV FHD",||UK|| RTE NEWS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50925
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MTV.png" group-title="UK| UK TV FHD",|UK| MTV HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50927
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MTVLIVE.png" group-title="UK| UK TV FHD",|UK| MTV LIVE HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50928
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/FOXHD.png" group-title="|UK| GENERAL",|UK| FOX HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50935
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/LIFETIME.png" group-title="UK| DOCUMENTARY",|UK| LIFETIME HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50940
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RTEONE.png" group-title="UK| UK TV FHD",|UK| RTE ONE HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50943
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/CHANNEL4.png" group-title="|UK| GENERAL",|UK| Channel 4  1 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50949
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/LIFETIME.png" group-title="|UK| GENERAL",|UK| Lifetime HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50953
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYONE.png" group-title="|UK| GENERAL",|UK| Sky 1 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50956
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RSHCX-logo.png" group-title="UK| UK TV FHD",||UK||  Rishtey Cineplex uk
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50958
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SAB.png" group-title="UK| UK TV FHD",||UK||  Sab UK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50959
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BBO.png" group-title="UK| UK TV FHD",||UK||  BBO  AMERICA HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50960
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RICHTEY%20TV.jpg" group-title="UK| UK TV FHD",||UK||  RISHTEY CINEMA  UK V
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50961
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BRITISH%20MUSLIM%20CHANNEL.jpeg" group-title="UK| UK TV FHD",||UK|| BRITISH MUSLIM
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50962
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ALJAZEERA.png" group-title="|UK| GENERAL",|UK| AL JAZEERA HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50919
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/LONDON%20LIVE%20TV.png" group-title="|UK| GENERAL",||UK|| LONDON LIVE TV HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50963
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/BOXOFFICE.png" group-title="UK| BOX OFFICE",|UK| TV Boxoffice 1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/240236
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/BOXOFFICE.png" group-title="UK| BOX OFFICE",|UK| TV Boxoffice 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/240237
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/BOXOFFICE.png" group-title="UK| BOX OFFICE",|UK| TV Boxoffice 3
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/240238
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/BOXOFFICE.png" group-title="UK| BOX OFFICE",|UK| TV Boxoffice 4
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/240239
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/BOXOFFICE.png" group-title="UK| BOX OFFICE",|UK| TV Boxoffice 5
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/240240
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/BOXOFFICE.png" group-title="UK| BOX OFFICE",|UK| TV Boxoffice 6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/240241
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/BOXOFFICE.png" group-title="UK| BOX OFFICE",|UK| TV Boxoffice 7
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/240242
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/BOXOFFICE.png" group-title="UK| BOX OFFICE",|UK| TV Boxoffice 8
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/240243
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/BOXOFFICE.png" group-title="UK| BOX OFFICE",|UK| TV Boxoffice 9
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/240244
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/BOXOFFICE.png" group-title="UK| BOX OFFICE",|UK| TV Boxoffice 10
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/240245
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/BOXOFFICE.png" group-title="UK| BOX OFFICE",|UK| TV DC Universe
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/240247
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/BOXOFFICE.png" group-title="UK| BOX OFFICE",|UK| TV Marvel
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/240246
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/CARTOONNETWORKHD.png" group-title="UK| KIDS",|UK| CARTOON NETWORK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50893
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/CARTOONNETWORKHD.png" group-title="UK| KIDS",|UK| Cartoon Network FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50892
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMAACTION.png" group-title="UK| UK TV FHD",|UK| SKY CINEMA ACTION FHD 50FPS#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/64474
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMACOMEDY.png" group-title="UK| UK TV FHD",|UK| SKY CINEMA COMEDY FHD 50FPS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/64472
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMADISNEY.png" group-title="UK| UK TV FHD",|UK| SKY CINEMA DISNEY FHD 50FPS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/64473
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMADRAMA.png" group-title="UK| UK TV FHD",|UK| SKY CINEMA DRAMA FHD 50FPS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/64475
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMAFAMILY.png" group-title="UK| UK TV FHD",|UK| SKY CINEMA FAMILY FHD 50FPS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/64471
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMAGREATS.png" group-title="UK| UK TV FHD",|UK| SKY CINEMA GREATS FHD 50FPS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/64478
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMAHITS.png" group-title="UK| UK TV FHD",|UK| SKY CINEMA HITS FHD 50FPS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/64470
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMAPREMIERE.png" group-title="UK| UK TV FHD",|UK| SKY CINEMA PREMIER FHD 50FPS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/64469
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMASCI-FI.png" group-title="UK| UK TV FHD",|UK| SKY CINEMA SCI-FI FHD 50FPS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/64476
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SkyCinemaSelectHd.png" group-title="UK| UK TV FHD",|UK| SKY CINEMA SELECT/OSCARS FHD 50FPS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/64479
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYCINEMATHRILLER.png" group-title="UK| UK TV FHD",|UK| SKY CINEMA THRILLER FHD 50FPS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/64477
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSACTION.png" group-title="UK| UK TV FHD",|UK| SKY SPORTS ACTION FHD 50FPS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/64486
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSARENA.png" group-title="UK| UK TV FHD",|UK| SKY SPORTS ARENA FHD 50FPS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/64487
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/UK/SKYSPORTSCRICKET.png" group-title="UK| UK TV FHD",|UK| SKY SPORTS CRICKET FHD 50FPS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/64483
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSF1.png" group-title="UK| UK TV FHD",|UK| SKY SPORTS F1 FHD 50FPS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/64485
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSFOOTBALL.png" group-title="UK| UK TV FHD",|UK| SKY SPORTS FOOTBALL  FHD 50FPS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/64482
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSGOLF.png" group-title="UK| UK TV FHD",|UK| SKY SPORTS GOLF FHD 50FPS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/64484
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSMAINEVENT.png" group-title="UK| UK TV FHD",|UK| SKY SPORTS MAIN EVENT FHD 50FPS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/64480
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSMIX.png" group-title="UK| UK TV FHD",|UK| SKY SPORTS MIX FHD 50FPS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/64488
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSNEWS.png" group-title="UK| UK TV FHD",|UK| SKY SPORTS NEWS FHD 50FPS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/64490
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SKYSPORTSPREMIERLEAGUE.png" group-title="UK| UK TV FHD",|UK| SKY SPORTS PREMIER LEAGUE FHD 50FPS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/64481
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RACINGUKHD.png" group-title="UK| UK TV FHD",|UK| SKY SPORTS RACING HD 50FPS (2AM OFF-AUTO BOOT 6.30AM)
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/64489
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/STARPLUS.png" group-title="UK| UK ASIA",|UK| ASIA- Star Plus.
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50737
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/STAR-BHARAT.png" group-title="UK| UK ASIA",|UK| ASIA- Star Bharat.
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50738
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SONY%20ASIA.png" group-title="UK| UK ASIA",|UK| ASIA- Sony TV Asia
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50739
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SONY-MAX.png" group-title="UK| UK ASIA",|UK| ASIA- Sony Max...
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50740
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SAB.png" group-title="UK| UK ASIA",|UK| ASIA- Sony Sab.
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50741
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SONY-MAX.png" group-title="UK| UK ASIA",|UK| ASIA- SONY MAX 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50742
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/COLORS%20TV.png" group-title="UK| UK ASIA",|UK| ASIA- Colors TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50743
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ZEE%20TV.png" group-title="UK| UK ASIA",|UK| ASIA- Zee TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50744
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ZEE%20CINEMA.png" group-title="UK| UK ASIA",|UK| ASIA- Zee Cinema.
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50745
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ptc-punjabi.png" group-title="UK| UK ASIA",|UK| ASIA- Ptc Punjabi
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50746
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ZEE-PUNJABI.png" group-title="UK| UK ASIA",|UK| ASIA- Zee Punjabi
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50747
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/matv.png" group-title="UK| UK ASIA",|UK| ASIA- MATV NATIONAL UK V
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50748
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BRIT%20ASIA.png" group-title="UK| UK ASIA",|UK| ASIA- Brit Asia Tv
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50749
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ABP%20NEWS.png" group-title="UK| UK ASIA",|UK| ASIA- Abp News
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50750
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/92%20NEWS.jpg" group-title="UK| UK ASIA",|UK| ASIA- 92 NEWS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50751
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/COLORS%20TV.png" group-title="UK| UK ASIA",|UK| ASIA- COLORS CINEPLEX
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50752
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RICHTEY%20TV.jpg" group-title="UK| UK ASIA",|UK| ASIA- RISHTEY  TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50753
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/LIVING-FOODS.png" group-title="UK| UK ASIA",|UK| ASIA- LIVING FOODZ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50754
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/SAMAA.png" group-title="UK| UK ASIA",|UK| ASIA- SAMAA
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50755
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/b4U.png" group-title="UK| UK ASIA",|UK| ASIA-B4U MUSIC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50756
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/HUM-MOSALAHA.png" group-title="UK| UK ASIA",|UK| ASIA- HUM MASALA
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50757
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/URDU.png" group-title="UK| UK ASIA",|UK| ASIA- URDU 1 EUROPE  UK V
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50758
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/PTV-GLOBAL.png" group-title="UK| UK ASIA",|UK| ASIA-  PTV GLOBAL
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50759
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/GEO-NEWS.png" group-title="UK| UK ASIA",|UK| ASIA- GEO TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50760
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/GEO-TEZ.png" group-title="UK| UK ASIA",|UK| ASIA- GEO TEZ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50761
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ARY%20Digital.png" group-title="UK| UK ASIA",|UK| ASIA- ARY DIGITAL B
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50762
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ATN_Bangla.png" group-title="UK| UK ASIA",|UK| ASIA- ATN BANGLA
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50763
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/hum%20nEWS.png" group-title="UK| UK ASIA",|UK| ASIA- Hum news
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50764
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ptc-punjabi.png" group-title="UK| UK ASIA",|UK| ASIA- Ptc Punjabi.
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50765
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/uk%20asie/Sangat-TV.png" group-title="UK| UK ASIA",|UK| ASIA- SANGAT  UK V
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50766
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ZING.png" group-title="UK| UK ASIA",|UK| ASIA-  ZING
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50767
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/AAP-NEWS.png" group-title="UK| UK ASIA",||PK|| AAP NEWS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50768
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/akaal-channel.png" group-title="UK| UK ASIA",|UK| ASIA- AKAAL CHANNEL
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50769
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/AAJNEWS.png" group-title="UK| UK ASIA",|UK| ASIA- AAJ NEWS LIVE
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50770
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/akaal-channel.png" group-title="UK| UK ASIA",|UK| ASIA- AKAAL CHANNEL
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50771
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/b4U.png" group-title="UK| UK ASIA",|UK| ASIA- B4U MOVIE
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50772
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/british%20muslim.png" group-title="UK| UK ASIA",|UK| ASIA- BRITISH MUSLIM
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50773
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/GEO-NEWS.png" group-title="UK| UK ASIA",|UK| ASIA- GEO NEWS UK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50774
-#EXTINF:-1 tvg-logo="http://185.165.243.195/logo_plus/1%20MISSING%20LOGO/uk%20asie/PEACE-TV.png" group-title="UK| UK ASIA",|UK| ASIA- PEACE TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50775
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ptc-punjabi.png" group-title="UK| UK ASIA",|UK| ASIA- Ptc Punjabi
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50776
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/sikh%20channel.png" group-title="UK| UK ASIA",|UK| ASIA- SIKH CHANNEL
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50777
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/takbear%20tv.png" group-title="UK| UK ASIA",|UK| ASIA- TAKBEAR TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50778
+#EXTINF:-1,UK: 5 Select HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4631
+#EXTINF:-1,UK: 5 STAR HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4633
+#EXTINF:-1,UK: 5 USA HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1579
+#EXTINF:-1,UK: 4Music HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4749
+#EXTINF:-1,UK 4Music HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/37252
+#EXTINF:-1,UK: 4Seven HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4625
+#EXTINF:-1,UK: ABC NEWS FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/28004
+#EXTINF:-1,UK: Ahlulbayt TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/166005
+#EXTINF:-1,UK: Alibi HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1131
+#EXTINF:-1,UK: Aljazeera English HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/24077
+#EXTINF:-1,UK: AMC FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4669
+#EXTINF:-1,UK: ANIMAL PLANET HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1130
+#EXTINF:-1,UK ANIMAL PLANET HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273372
+#EXTINF:-1,UK: Arise News HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/284025
+#EXTINF:-1,UK: Baby TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1129
+#EXTINF:-1,UK Baby TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/50905
+#EXTINF:-1,UK: BBC 1 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/697
+#EXTINF:-1,UK: BBC 1 Scotland HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290523
+#EXTINF:-1,UK: BBC 2 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/283047
+#EXTINF:-1,UK: BBC 3 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/285331
+#EXTINF:-1,UK: BBC 4 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/283050
+#EXTINF:-1,UK: BBC Alba HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/278520
+#EXTINF:-1,UK: BBC Earth HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/174446
+#EXTINF:-1,UK BBC Earth HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290059
+#EXTINF:-1,UK: BBC Entertainment HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/11663
+#EXTINF:-1,UK: BBC First HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/11586
+#EXTINF:-1,UK BBC First HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273567
+#EXTINF:-1,UK: BBC LifeStyle HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/85436
+#EXTINF:-1,UK BBC LifeStyle HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290072
+#EXTINF:-1,UK: BBC News FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/696
+#EXTINF:-1,UK: BBC Parliament HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290377
+#EXTINF:-1,UK: BBC Scotland HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/281885
+#EXTINF:-1,UK: BBC World News HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/280286
+#EXTINF:-1,UK: Best Direct HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286774
+#EXTINF:-1,UK: BET Star HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/70065
+#EXTINF:-1,UK: Betfred TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/78640
+#EXTINF:-1,UK: Bible TV Global HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/275962
+#EXTINF:-1,UK: Blaze HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4642
+#EXTINF:-1,UK: Bloomberg TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1610
+#EXTINF:-1,UK: Boomerang HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1125
+#EXTINF:-1,UK: Box Hits HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4742
+#EXTINF:-1,UK: Box Nation FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4719
+#EXTINF:-1,UK: Box Office 1 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286318
+#EXTINF:-1,UK: Box Office 2 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/18165
+#EXTINF:-1,UK: Box Office 3 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/18163
+#EXTINF:-1,UK: Brit Asia TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/71067
+#EXTINF:-1,UK: British Muslim TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/33447
+#EXTINF:-1,UK: BT Sport 1 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/270
+#EXTINF:-1,UK BT Sport 1 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/28340
+#EXTINF:-1,UK: BT Sport 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273
+#EXTINF:-1,UK BT Sport 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/28344
+#EXTINF:-1,UK: BT Sport 3 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/271
+#EXTINF:-1,UK BT Sport 3 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/28348
+#EXTINF:-1,UK: BT Sport ESPN FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1124
+#EXTINF:-1,UK BT Sport ESPN FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/28349
+#EXTINF:-1,UK: BT Sport Extra 1 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/7435
+#EXTINF:-1,UK BT Sport Extra 1 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290078
+#EXTINF:-1,UK: BT Sport Extra 2 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/47961
+#EXTINF:-1,UK BT Sport Extra 2 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/282906
+#EXTINF:-1,UK: BT Sport Extra 3 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/279255
+#EXTINF:-1,UK BT Sport Extra 3 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/279296
+#EXTINF:-1,UK: BT Sport Extra 4 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/283203
+#EXTINF:-1,UK BT Sport Extra 4 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290080
+#EXTINF:-1,UK: BT Sport Extra 5 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/7438
+#EXTINF:-1,UK BT Sport Extra 5 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290079
+#EXTINF:-1,UK: Cartoon Network HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/720
+#EXTINF:-1,UK Cartoon Network HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/50920
+#EXTINF:-1,UK: Cartoonito HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1546
+#EXTINF:-1,UK Cartoonito HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/50919
+#EXTINF:-1,UK: CBBC FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/695
+#EXTINF:-1,UK: CBeebies FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4753
+#EXTINF:-1,UK CBeebies FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274008
+#EXTINF:-1,UK: CBS Drama HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1123
+#EXTINF:-1,UK: CBS Justice HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1122
+#EXTINF:-1,UK: CBS News HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/11582
+#EXTINF:-1,UK: CBS Reality HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1121
+#EXTINF:-1,UK: CGTN HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4818
+#EXTINF:-1,UK: Challenge HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4641
+#EXTINF:-1,UK: Channel 4 London HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1120
+#EXTINF:-1,UK: Channel 5 +1 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/269303
+#EXTINF:-1,UK: Channel 5 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1119
+#EXTINF:-1,UK: CineBox Action FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/18164
+#EXTINF:-1,UK: CINEBOX ANIMATION FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290400
+#EXTINF:-1,UK: CINEBOX CLASSICS FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290401
+#EXTINF:-1,UK: CINEBOX COMEDY FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290402
+#EXTINF:-1,UK: CINEBOX CULT FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290403
+#EXTINF:-1,UK: CINEBOX FAMILY FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290404
+#EXTINF:-1,UK: CITV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1548
+#EXTINF:-1,UK: Club MTV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/282261
+#EXTINF:-1,UK: Clubland TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/144752
+#EXTINF:-1,UK: CNBC HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/11562
+#EXTINF:-1,UK: CNN HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/282202
+#EXTINF:-1,UK: CNN International FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/280359
+#EXTINF:-1,UK: Comedy Central Extra HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4656
+#EXTINF:-1,UK: Comedy Central FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1118
+#EXTINF:-1,UK: Create & Craft HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4824
+#EXTINF:-1,UK: Crime+ Investigation FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/734
+#EXTINF:-1,UK Crime+ Investigation FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273673
+#EXTINF:-1,UK: Dave HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/733
+#EXTINF:-1,UK: Dave ja vu HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/17031
+#EXTINF:-1,UK: Discovery H&H HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/282757
+#EXTINF:-1,UK Discovery H&H HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/282895
+#EXTINF:-1,UK: Discovery History HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/694
+#EXTINF:-1,UK Discovery History HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273670
+#EXTINF:-1,UK: Discovery Science HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/713
+#EXTINF:-1,UK Discovery Science HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273672
+#EXTINF:-1,UK: Discovery Turbo HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1114
+#EXTINF:-1,UK Discovery Turbo HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273676
+#EXTINF:-1,UK: Discovery World FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/708
+#EXTINF:-1,UK Discovery World FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273671
+#EXTINF:-1,UK: Disney Channel HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1113
+#EXTINF:-1,UK Disney Channel HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/282968
+#EXTINF:-1,UK: Disney Junior HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1112
+#EXTINF:-1,UK Disney Junior HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/50898
+#EXTINF:-1,UK: Disney XD HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1111
+#EXTINF:-1,UK Disney XD HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274520
+#EXTINF:-1,UK: DMAX HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1604
+#EXTINF:-1,UK DMAX HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274655
+#EXTINF:-1,UK: Drama HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4638
+#EXTINF:-1,UK: Duck TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/144753
+#EXTINF:-1,UK: DW FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/19276
+#EXTINF:-1,UK: E! HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1542
+#EXTINF:-1,UK E! HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/279900
+#EXTINF:-1,UK: E4 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1110
+#EXTINF:-1,UK: Eden FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1109
+#EXTINF:-1,UK: Edge Sport HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/54012
+#EXTINF:-1,UK: EIR SPORTS 1 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4725
+#EXTINF:-1,UK: euronews HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1554
+#EXTINF:-1,UK: EUROSPORT 1 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/692
+#EXTINF:-1,UK EUROSPORT 1 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273577
+#EXTINF:-1,UK: EUROSPORT 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1555
+#EXTINF:-1,UK EUROSPORT 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273585
+#EXTINF:-1,UK: EWTN HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/281663
+#EXTINF:-1,UK: FIGHT BOX FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/11485
+#EXTINF:-1,UK FIGHT BOX FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/279294
+#EXTINF:-1,UK: FIGHT Network FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/157399
+#EXTINF:-1,UK: Film 4 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1541
+#EXTINF:-1,UK: Food Network HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4658
+#EXTINF:-1,UK: Foodxp HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/11450
+#EXTINF:-1,UK: Fox News Channel HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/163972
+#EXTINF:-1,UK: France 24 English FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/11560
+#EXTINF:-1,UK: FreeSports FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/37876
+#EXTINF:-1,UK: GB News FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/284027
+#EXTINF:-1,UK: God TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/22338
+#EXTINF:-1,UK: GOLD +1 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/65410
+#EXTINF:-1,UK: Gold Ireland HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1108
+#EXTINF:-1,UK: GoodNews TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/201133
+#EXTINF:-1,UK: Great Movies +1 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/173235
+#EXTINF:-1,UK: Great Movies Action +1 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290528
+#EXTINF:-1,UK: Great Movies Action HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286775
+#EXTINF:-1,UK: Great Movies Classic +1 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/285334
+#EXTINF:-1,UK: Great Movies Classic HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290529
+#EXTINF:-1,UK: Great Movies HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290527
+#EXTINF:-1,UK: Great TV +1 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286776
+#EXTINF:-1,UK: Great TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290530
+#EXTINF:-1,UK: HBO Comedy HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/151864
+#EXTINF:-1,UK: HGTV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1600
+#EXTINF:-1,UK HGTV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290183
+#EXTINF:-1,UK: High Street TV 5 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286771
+#EXTINF:-1,UK: High Street TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286770
+#EXTINF:-1,UK: History 2 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1601
+#EXTINF:-1,UK History 2 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290088
+#EXTINF:-1,UK: History FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/282756
+#EXTINF:-1,UK History FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/282938
+#EXTINF:-1,UK: Hochanda HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/157284
+#EXTINF:-1,UK: Horror Channel HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/736
+#EXTINF:-1,UK: Horse & Country TV Sverige HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/11492
+#EXTINF:-1,UK: Investigation Discovery HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/278449
+#EXTINF:-1,UK Investigation Discovery HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/279096
+#EXTINF:-1,UK: Islam Channel HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4745
+#EXTINF:-1,UK: itv 2 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/690
+#EXTINF:-1,UK: itv 3 +1 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/145787
+#EXTINF:-1,UK: itv 3 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/703
+#EXTINF:-1,UK: itv 4 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/691
+#EXTINF:-1,UK: itv BE HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1560
+#EXTINF:-1,UK: itv FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/689
+#EXTINF:-1,UK: Jewellery Maker FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/166001
+#EXTINF:-1,UK: JML Direct HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286773
+#EXTINF:-1,UK: Kerrang HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286913
+#EXTINF:-1,UK: KICC TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/7550
+#EXTINF:-1,UK: Kiss TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4746
+#EXTINF:-1,UK: KIX HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/17491
+#EXTINF:-1,UK: LA Muscle TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/166022
+#EXTINF:-1,UK: LFC TV FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4721
+#EXTINF:-1,UK: Lifetime HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4667
+#EXTINF:-1,UK: London Live HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286912
+#EXTINF:-1,UK: Love Nature FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/78665
+#EXTINF:-1,UK: Magic TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/280282
+#EXTINF:-1,UK: More 4 UK FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/282201
+#EXTINF:-1,UK: MSNBC HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/74431
+#EXTINF:-1,UK: MTV 00s HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/199063
+#EXTINF:-1,UK: MTV 80s HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/280278
+#EXTINF:-1,UK: MTV 90s HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/285332
+#EXTINF:-1,UK: MTV Base HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4733
+#EXTINF:-1,UK MTV Base HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273987
+#EXTINF:-1,UK: MTV Classic HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4735
+#EXTINF:-1,UK MTV Classic HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273507
+#EXTINF:-1,UK: MTV FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4728
+#EXTINF:-1,UK: MTV Hits HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4736
+#EXTINF:-1,UK MTV Hits HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274033
+#EXTINF:-1,UK: MTV Live FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/21860
+#EXTINF:-1,UK MTV Live FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/282911
+#EXTINF:-1,UK: MTV Music UK HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/282262
+#EXTINF:-1,UK MTV Music UK HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/282868
+#EXTINF:-1,UK: MUTV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1102
+#EXTINF:-1,UK: NAT GEO HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1101
+#EXTINF:-1,UK NAT GEO HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274080
+#EXTINF:-1,UK: NAT GEO Wild FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/724
+#EXTINF:-1,UK NAT GEO Wild FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274076
+#EXTINF:-1,UK: NBA TV FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/182451
+#EXTINF:-1,UK: NHK WORLD HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/165913
+#EXTINF:-1,UK: Nick Junior +1 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290405
+#EXTINF:-1,UK: Nick Junior FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1098
+#EXTINF:-1,UK Nick Junior FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274441
+#EXTINF:-1,UK: nickelodeon HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/281864
+#EXTINF:-1,UK nickelodeon HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/283023
+#EXTINF:-1,UK: NickToons HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/740
+#EXTINF:-1,UK NickToons HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274920
+#EXTINF:-1,UK: Nollywood HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/171940
+#EXTINF:-1,UK: Now 70s HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/65074
+#EXTINF:-1,UK: Now 80s HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4738
+#EXTINF:-1,UK: Now 90s HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290406
+#EXTINF:-1,UK: NRJ Hits FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/269323
+#EXTINF:-1,UK NRJ Hits FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290190
+#EXTINF:-1,UK: Outside TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/266986
+#EXTINF:-1,UK: Paramount Network HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4637
+#EXTINF:-1,UK: PBS America HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/11720
+#EXTINF:-1,UK: Pick HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1578
+#EXTINF:-1,UK: Pop +1 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/165932
+#EXTINF:-1,UK: Pop HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1599
+#EXTINF:-1,UK: Pop Max HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1598
+#EXTINF:-1,UK: Premier Sports 1 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/284467
+#EXTINF:-1,UK: Premier Sports 2 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4723
+#EXTINF:-1,UK: Quest +1 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/165904
+#EXTINF:-1,UK: Quest HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1096
+#EXTINF:-1,UK: Quest Red +1 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/201131
+#EXTINF:-1,UK: Quest Red HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1577
+#EXTINF:-1,UK: QVC Beauty HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/48644
+#EXTINF:-1,UK: RACING TV FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/731
+#EXTINF:-1,UK: Really HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/742
+#EXTINF:-1,UK: RedBull TV FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/85429
+#EXTINF:-1,UK: Revelation HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/157285
+#EXTINF:-1,UK: ROK TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/171943
+#EXTINF:-1,UK: RT FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/48883
+#EXTINF:-1,UK: RT NEWS FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290382
+#EXTINF:-1,UK: RTE 2 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/279272
+#EXTINF:-1,UK: RTE JR HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1545
+#EXTINF:-1,UK: RTE News HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4774
+#EXTINF:-1,UK: RTE One HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/687
+#EXTINF:-1,UK: Rugby World TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/281576
+#EXTINF:-1,UK: S4C HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4775
+#EXTINF:-1,UK: Setanta Sports 1 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/70109
+#EXTINF:-1,UK: Sky Arts HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1094
+#EXTINF:-1,UK: Sky Atlantic HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1093
+#EXTINF:-1,UK: Sky Cinema Action FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1092
+#EXTINF:-1,UK: Sky Cinema Animation FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/197207
+#EXTINF:-1,UK: Sky Cinema Comedy HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1091
+#EXTINF:-1,UK: Sky Cinema Crime & Thriller FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/283045
+#EXTINF:-1,UK: Sky Cinema Disney FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1090
+#EXTINF:-1,UK Sky Cinema Disney FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290117
+#EXTINF:-1,UK: Sky Cinema Drama FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1089
+#EXTINF:-1,UK: Sky Cinema Family HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/727
+#EXTINF:-1,UK: Sky Cinema Greats FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1087
+#EXTINF:-1,UK: Sky Cinema Hits FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1086
+#EXTINF:-1,UK: Sky Cinema Modern HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/158464
+#EXTINF:-1,UK: Sky Cinema Premiere FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1085
+#EXTINF:-1,UK: Sky Cinema sci-fi Horror FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/725
+#EXTINF:-1,UK: Sky Cinema Select HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/726
+#EXTINF:-1,UK: Sky Cinema ShowCase HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/17041
+#EXTINF:-1,UK: Sky Cinema Thriller FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1082
+#EXTINF:-1,UK: Sky Cinema Witness FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/36950
+#EXTINF:-1,UK: Sky Crime FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/15155
+#EXTINF:-1,UK: Sky Documentaries HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/187346
+#EXTINF:-1,UK: Sky Nature FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286909
+#EXTINF:-1,UK: Sky News FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1081
+#EXTINF:-1,UK: Sky One HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1080
+#EXTINF:-1,UK: Sky Sports Darts FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/267
+#EXTINF:-1,UK Sky Sports Darts FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273425
+#EXTINF:-1,UK: Sky Sports F1 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/265
+#EXTINF:-1,UK Sky Sports F1 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/37177
+#EXTINF:-1,UK: Sky Sports Football FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/266
+#EXTINF:-1,UK Sky Sports Football FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/37178
+#EXTINF:-1,UK: Sky Sports Main Event FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/283053
+#EXTINF:-1,UK Sky Sports Main Event FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290047
+#EXTINF:-1,UK: Sky Sports Mix FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/261
+#EXTINF:-1,UK Sky Sports Mix FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/37181
+#EXTINF:-1,UK: Sky Sports NFL FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/281849
+#EXTINF:-1,UK Sky Sports NFL FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/282833
+#EXTINF:-1,UK: Sky Sports Premier League FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/263
+#EXTINF:-1,UK Sky Sports Premier League FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273424
+#EXTINF:-1,UK: Sky Sports Racing FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/163132
+#EXTINF:-1,UK Sky Sports Racing FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290046
+#EXTINF:-1,UK: Sky Sports Arena HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290378
+#EXTINF:-1,UK: Sky Sports Cricket HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/269
+#EXTINF:-1,UK Sky Sports Cricket HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273427
+#EXTINF:-1,UK: Sky Sports Golf HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/264
+#EXTINF:-1,UK Sky Sports Golf HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/37179
+#EXTINF:-1,UK: Sky Sports News HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/260
+#EXTINF:-1,UK Sky Sports News HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273423
+#EXTINF:-1,UK: Sky Store 1 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/165921
+#EXTINF:-1,UK: Sky Store 2 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/165922
+#EXTINF:-1,UK: Sky Store 3 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/165929
+#EXTINF:-1,UK: sky store 4 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/165926
+#EXTINF:-1,UK: Sky Two HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1074
+#EXTINF:-1,UK: Sky Witness FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/11738
+#EXTINF:-1,UK: Smithsonian Channel FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/266984
+#EXTINF:-1,UK: Spike HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4635
+#EXTINF:-1,UK: Spotlight TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/157288
+#EXTINF:-1,UK: STV FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/192776
+#EXTINF:-1,UK: SYFY HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1068
+#EXTINF:-1,UK: Talking Pictures TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4710
+#EXTINF:-1,UK: TCM Movies HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4711
+#EXTINF:-1,UK: TG4 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/280357
+#EXTINF:-1,UK: Thane HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/11469
+#EXTINF:-1,UK: Thats TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286769
+#EXTINF:-1,UK: The Box HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290463
+#EXTINF:-1,UK: Tiny Pop HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/264542
+#EXTINF:-1,UK: TJC FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/269049
+#EXTINF:-1,UK: TLC HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1067
+#EXTINF:-1,UK: Together TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/157281
+#EXTINF:-1,UK: Tom & Jerry HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/63231
+#EXTINF:-1,UK: TRACE URBAN HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290522
+#EXTINF:-1,UK: Travel Channel HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/280358
+#EXTINF:-1,UK Travel Channel HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/282950
+#EXTINF:-1,UK: Travelxp HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/157273
+#EXTINF:-1,UK Travelxp HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/279878
+#EXTINF:-1,UK: TRT World HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/165912
+#EXTINF:-1,UK: TV Warehouse HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/286772
+#EXTINF:-1,UK: UFC FIGHT Pass FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/280280
+#EXTINF:-1,UK UFC FIGHT Pass FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/282867
+#EXTINF:-1,UK: Universal TV FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/278519
+#EXTINF:-1,UK: V2 Beat TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/165366
+#EXTINF:-1,UK: Vice FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/11452
+#EXTINF:-1,UK: Virgin Media One HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/122200
+#EXTINF:-1,UK: Virgin Media Three HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290521
+#EXTINF:-1,UK: Virgin Media Two FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/11683
+#EXTINF:-1,UK: Warner TV Kids HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/284261
+#EXTINF:-1,UK: Watch HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/280287
+#EXTINF:-1,UK: World Of FreeSports HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/173276
+#EXTINF:-1,UK: WWE Superslam FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/284469
+#EXTINF:-1,UK: Yesterday HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1065
+#EXTINF:-1,DE: Jukebox HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/12613
+#EXTINF:-1,US: Fox WLUK HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/289612
+#EXTINF:-1,US: WLUK TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/200822
+
